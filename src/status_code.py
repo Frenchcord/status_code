@@ -1,3 +1,4 @@
+from .errors import Invalidoken, InvalidCharacter, RateLimits, UnknowError
 '''
 Making a discord api wrapper too?
 Here's something that might help you
