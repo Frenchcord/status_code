@@ -5,7 +5,7 @@ Here's something that might help you
 200 : valid
 401 : invalidtoken
 429 : rates limits
-400 : invalid requests
+400 : invalid payload
 '''
 def status(st: int):
   if st == 200: 
